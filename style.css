@@ -3,11 +3,11 @@
 
 /* Variabel CSS untuk tema warna yang digunakan secara global sepanjang situs */
 :root {
-    --primary-color: #00bfa5; /* Warna utama teal hijau */
+    --primary-color: #6a3721ff; /* Warna utama teal hijau */
 
     /* Tema Gelap Elegan */
-    --background-color: #121212; /* Latar belakang hitam pekat */
-    --surface-color: #1e1e1e;    /* Warna permukaan konten */
+    --background-color: #faf9f9; /* Latar belakang hitam pekat */
+    --surface-color: #faf9f9;    /* Warna permukaan konten */
     --text-color: #e0e0e0;       /* Warna teks utama */
     --text-secondary-color: #a0a0a0; /* Warna teks sekunder */
     --border-color: #2a2a2a;     /* Warna border elemen */
