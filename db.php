@@ -8,10 +8,10 @@ error_reporting(E_ALL);                 // Laporan semua jenis error
 // File konfigurasi untuk koneksi ke database MySQL menggunakan PDO
 
 // Konfigurasi koneksi database
-$host = 'sql210.byethost5.com';         // Host database (alamat server database)
-$dbname = 'b5_39959180_db_cvproject';  // Nama database yang akan digunakan
-$user = 'b5_39959180';                 // Username untuk koneksi ke database
-$pass = 'Rumah@buabuku27';             // Password untuk koneksi ke database
+$host = 'localhost';         // Host database (alamat server database)
+$dbname = 'psas2025';  // Nama database yang akan digunakan
+$user = 'root';                 // Username untuk koneksi ke database
+$pass = '';             // Password untuk koneksi ke database
 
 try {
     // Membuat koneksi PDO ke database MySQL
